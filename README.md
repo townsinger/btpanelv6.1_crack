@@ -5,6 +5,6 @@
 
 # Usage
 
-`wget https://raw.githubusercontent.com/sppx/btpanelv6.1_crack/master/crack.sh && bash crack.sh`
+`wget https://raw.githubusercontent.com/townsinger/btpanelv6.1_crack/master/crack.sh&& bash crack.sh`
 
 
